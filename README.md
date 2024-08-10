@@ -35,12 +35,3 @@ Tasarım, 576px genişliğindeki mobil cihazlarda görüntülemek için optimize
 * Proje dizinine gidin.
 * Terminalde 'npm run dev' komutunu yazarak projeyi 'localhost:5173' üzerinde çalıştırabilirsiniz.
 * Siteye buradan erişebilirsiniz: https://keremselimgunes.github.io/Sport-Center/
-## 📸 Ekran Görüntüleri
-<img src="sportCenterImages/s1.png" width=1200 height="600">
-<img src="sportCenterImages/s2.png" width=1200 height="600">
-<img src="sportCenterImages/s3.png" width=1200 height="600">
-<img src="sportCenterImages/s4.png" width=1200 height="600">
-<img src="sportCenterImages/s5.png" width=1200 height="600">
-<img src="sportCenterImages/s6.png" width=1200 height="600">
-<img src="sportCenterImages/s7.png" width=1200 height="600">
-<img src="sportCenterImages/m8.png" width=1200 height="600">
