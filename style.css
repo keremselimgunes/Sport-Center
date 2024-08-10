@@ -113,7 +113,7 @@ nav {
   margin-left: 2rem;
 }
 
-/* box kısmı */
+/* box */
 .flex-container {
   display: flex;
   background-color: #F1F8FF;
@@ -560,7 +560,7 @@ nav {
   width:150%;
   height: 100%;
 }
-/* Footer*/
+/* Footer */
 footer {
   background-color: var(--sc-txtcolor);
 }
