@@ -34,4 +34,4 @@ Tasarım, 576px genişliğindeki mobil cihazlarda görüntülemek için optimize
 * Depoyu klonlayın.
 * Proje dizinine gidin.
 * Terminalde 'npm run dev' komutunu yazarak projeyi 'localhost:5173' üzerinde çalıştırabilirsiniz.
-* Siteye buradan erişebilirsiniz: https://keremselimgunes.github.io/Sport-Center/
+* Siteye buradan erişebilirsiniz: https://keremselimgunes-sportcenter.netlify.app/
